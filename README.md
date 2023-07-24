@@ -1,13 +1,14 @@
 ### Hi there 👋, I am Mahmoud!
 ---
-A Passionate Software Test Automation Engineer with 5 years of experience in the IT industry, dedicated to ensuring the quality of products through robust test automation frameworks and meticulous bug-catching.
-<br> 
+A Passionate Software Test Automation Engineer🥷🏻 with 5 years of experience in the IT industry, dedicated to ensuring the quality of products through robust test automation frameworks and meticulous bug-catching🐞.
 
-I built test automation frameworks for diverse platforms and contributed to CI/CD pipelines utilizing, including but not limited to, these technologies: 
-<br>
+I built test automation frameworks for diverse platforms and contributed to CI/CD pipelines utilizing many technologies, some of them are listed below: 
 
 Java / JavaScript / TypeScript / Python / Selenium Webdriver / Cypress / Playwright / Appium / XCUITest / Espresso / REST Assured / GitHub Actions / CircleCi / Docker
 <!--
+
+<img src="https://asset.brandfetch.io/id6uEhoiBT/idJdbKiNbX.svg" width="50" height="50" alt="Java"/>  <img src="https://asset.brandfetch.io/idq5ck33b2/id8Fb4RR16.png" width="50" height="50" alt="JavaScript"/>  <img src="https://asset.brandfetch.io/idKX_Hb7va/id1t_VNpUn.svg" width="50" height="50" alt="TypeScript"/>
+
 **mahmoudbindary/mahmoudbindary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
